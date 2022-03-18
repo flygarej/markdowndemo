@@ -5,7 +5,7 @@
     B-->C[edit];
     C-->D[git add .];
     D-->E[git commit -m msg];
-    E-->B;
+    E-->C;
     E-->G[git push remote branch];
     G-->R2[(remote git repo)];
 ```
