@@ -74,5 +74,11 @@ External links should be preserved, such as this one to
 
 Images should be saved and linked as markdown  
   
-![A person wearing glasses AI-generated content may be
-incorrect.](./media/image3.png)
+![A person wearing glasses AI-generated content may be incorrect.](./media/image3.png)
+
+## Tables…
+
+| Heading 1 | Heading 2 | Heading 3 |
+| --------- | --------- | --------- |
+| Lkjhlkj   | Lkjhjhjh  | Gfyty     |
+| Tm        | Nmnmn     | mnbvvv    |
